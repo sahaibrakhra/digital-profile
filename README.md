@@ -4,14 +4,14 @@ I am an undergraduate student at the University of Western Ontario pursuing an H
 
 ---
 
-### 🔭 Current Focus & Research
+### Current Focus & Research
 * **Pure Mathematics:** Studying real analysis, abstract algebra, and differential geometry—with a specific focus on Lie theory applied to differential equations (approximate Lie symmetries of the Nonlinear Schrödinger equation).
 * **Systems & Software:** Exploring low-level software engineering, C programming, and Unix system architecture.
 * **Philosophy of Science:** Engaging with epistemology, ethics, and the philosophical foundations of mathematical abstraction.
 
 ---
 
-### 🛠️ Toolbox & Environment
+### Toolbox & Environment
 * **Languages & Core:** C, Python, LaTeX (MiKTeX / VS Code)
 * **Systems:** Unix / Linux server environments, Git, GCC, Make
 * **Archiving & Web:** HTML5, CSS3, Neocities
